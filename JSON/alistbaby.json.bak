@@ -1,0 +1,25 @@
+{
+    "vodPic": "http://3322.ddns.net:66/z/2.jpg",
+    "drives": [
+        {
+            "name": "梁雨轩",
+            "server": "http://3322.ddns.net:5244"
+        },
+        {
+            "name": "小雅",
+            "server": "http://alist.xiaoya.pro"
+        },
+        {
+            "name": "触光",
+            "server": "https://pan.ichuguang.com"
+        },
+        {
+            "name": "魔都云",
+            "server": "https://cdn.modupan.com"
+        },
+        {
+            "name": "七米蓝",
+            "server": "https://al.chirmyram.com"
+        }
+    ]
+}
