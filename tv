@@ -12,7 +12,7 @@
         },
         {
             "key": "预告",
-            "name": "新片｜预告",
+            "name": "影视新片｜预告",
             "type": 3,
             "api": "csp_YGP",
             "searchable": 0
