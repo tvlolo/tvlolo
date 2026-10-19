@@ -24,6 +24,22 @@
             "api": "csp_LocalFile"
         },
         {
+      "key": "MTV",
+      "name": "🎧┃明星┃MV",
+      "type": 3,
+      "jar": "./JAR/panda.jar",
+      "api": "csp_Bili",
+      "playerType": 2,
+      "ext": {
+        "json": "./JSON/bili",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+        {
             "key": "AList",
             "name": "梁雨轩｜网盘",
             "type": 3,
